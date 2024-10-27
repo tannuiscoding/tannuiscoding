@@ -17,7 +17,7 @@
       <a href="https://twitter.com/tanniscoding">
         <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a> </div> <br> <div align="center"> <img src="dev-card.png" alt="Dev Card"> </div> <br>
 <div align="center"> <h1 align="center">🏆 Trophies</h1> <img src="https://github-profile-trophy.vercel.app/?username=tannuiscoding&theme=light" alt="GitHub Trophies"> </div> 
-     <h3>GSSOC(24) Badges 🪶</h3>
+     <h3 align="center">GSSOC(24) Badges 🪶</h3>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
