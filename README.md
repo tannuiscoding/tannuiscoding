@@ -18,4 +18,4 @@
         <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a> </div> <br> <div align="center"> <img src="dev-card.png" alt="Dev Card"> </div> <br>
 <div align="center"> <h1 align="center">🏆 Trophies</h1> <img src="https://github-profile-trophy.vercel.app/?username=tannuiscoding&theme=light" alt="GitHub Trophies"> </div> <div align="center"> <img src="https://ssr-contributions-svg.vercel.app/_/tannuiscoding?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=10002B,240046,3C096C,5A189A,7B2CBF,9D4EDD,C77DFF,E0AAFF&dark=true"> </div> <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
-<div align="center"> <img src="https://holopin.io/@tannuiscoding" alt="hacktoberfest badges"> </div>
+<div align="center"> <img src="https://holopin.me/@tannuiscoding" alt="hacktoberfest badges"> </div>
