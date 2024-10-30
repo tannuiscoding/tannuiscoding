@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <a href="https://buymeacoffee.com/tannuchoudhl" target="_blank">
+  <a href="https://buymeacoffee.com/tannuchoudl" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"/>
   </a>
 </p>
