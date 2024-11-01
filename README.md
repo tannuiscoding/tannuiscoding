@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=yashksaini-coder&label=Profile%20views&color=7209b7&style=flat" alt="Profile Views" />
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=900&size=35&pause=1000&color=9418F7&center=true&vCenter=true&width=500&height=100&lines=Python+Developer;AI%2FML+Enthusiast;Open+Source+Contributor;Web+Developer" alt="Typing Animation">
 </div>
