@@ -42,22 +42,19 @@
 <br>
 
 <div align="center">
-  <a href="mailto:tchoudhary1611@gmail.com">
+  <a href="mailto:tannuchoudhary2000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/tannuiscoding">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
   </a>
-  <a href="https://linkedin.com/in/tchoudhary1611">
+  <a href="https://linkedin.com/in/tannuiscoding">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://bento.me/tanniscoding">
+  <a href="https://bento.me/tannuiscoding">
     <img src="https://img.shields.io/badge/Bento-768CFF.svg?style=for-the-badge&logo=Bento&logoColor=white" alt="Bento" />
   </a>
-  <a href="https://www.instagram.com/tanniscoding/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://twitter.com/tanniscoding">
+  <a href="https://twitter.com/tannuiscoding">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
   </a>
 </div>
