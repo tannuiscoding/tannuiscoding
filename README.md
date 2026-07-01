@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tannu Choudhary and I'm a Python Developer, Web Developer, and AI/ML Enthusiast from India 🇮🇳</h2>
+<h2 align="left">Hi 👋! My name is Tannu Choudhary and I'm a Software Engineer</h2>
 
 ###
 
