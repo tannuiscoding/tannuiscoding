@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="coding meme"/>
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzE5YWx0am42Y3E5YTE2OWY0MGtheXljY3E3dzlucHNzb3Vka3N4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i229PTC8BKt9V9RnwZ/giphy.gif" alt="coding meme"/>
 
 ###
 
