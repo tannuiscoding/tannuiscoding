@@ -1,45 +1,39 @@
-\\<h1 align="center">Hi 👋, I'm Tannu Choudhary</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineer • AI Engineer • Full Stack Developer • Open Source Contributor
-</h3>
+# Hi, I'm Tannu Choudhary 👋
 
-<p align="center">
-Building AI-powered applications, scalable web solutions, automation tools, and developer-first experiences.
-</p>
+### Software Engineer building AI-powered products, scalable backends & clean developer experiences
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&lines=Software+Engineer;AI+Engineer;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+Something+New" alt="Typing Animation"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=AI+%2F+LLM+Engineer;Full+Stack+Developer;Open+Source+Contributor;Top+Rated+on+Upwork" alt="Typing Animation" />
 
 <br>
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tannuiscoding&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tannuchoudhary2000@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tannuiscoding)
+[![Bento](https://img.shields.io/badge/Portfolio-768CFF?style=for-the-badge&logo=vercel&logoColor=white)](https://bento.me/tannuiscoding)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/tannuiscoding)
+
 </div>
 
 <br>
 
+## About Me
+
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
-<h2>👨‍💻 About Me</h2>
-
-<ul>
-<li>🎓 MCA Graduate from <b>IGDTUW</b></li>
-<li>⭐ Top Rated Freelancer on Upwork</li>
-<li>🤖 Passionate about <b>Artificial Intelligence, LLMs, Automation & Full Stack Development</b></li>
-<li>🌱 Currently exploring <b>Agentic AI, RAG Systems & AI Infrastructure</b></li>
-<li>💬 Ask me about <b>Python, MERN, AI, Open Source & Automation</b></li>
-<li>📫 <b>tannuchoudhary2000@gmail.com</b></li>
-</ul>
+- 🎓 MCA graduate from **IGDTUW**
+- ⭐ **Top Rated** freelancer on Upwork, delivering production-grade software for global clients
+- 🤖 Focused on **AI/LLM engineering**, agentic systems, and full-stack web development
+- 🌱 Currently exploring **RAG pipelines, agentic AI workflows, and AI infrastructure**
+- 💬 Happy to talk about **Python, the MERN stack, LLMs, automation, and open source**
+- 📫 Reach me at **tannuchoudhary2000@gmail.com**
 
 </td>
+<td width="35%" align="center">
 
-<td width="40%" align="center">
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzE5YWx0am42Y3E5YTE2OWY0MGtheXljY3E3dzlucHNzb3Vka3N4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i229PTC8BKt9V9RnwZ/giphy.gif" width="260" alt="Coding Penguin"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzE5YWx0am42Y3E5YTE2OWY0MGtheXljY3E3dzlucHNzb3Vka3N4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i229PTC8BKt9V9RnwZ/giphy.gif" width="220" alt="Coding Penguin"/>
 
 </td>
 </tr>
@@ -47,96 +41,78 @@ Building AI-powered applications, scalable web solutions, automation tools, and 
 
 <br>
 
-<h2 align="center">💻 Most Used Languages</h2>
+## Tech Stack
+
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,php,cs&theme=dark" />
+
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" />
+
+**Backend & APIs**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,fastapi&theme=dark" />
+
+**Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&theme=dark" />
+
+**AI / ML**
+<br>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+
+**Tools & Platforms**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,ubuntu,postman,vscode&theme=dark" />
+
+<br>
+
+## Core Skills
+
+| Category | Skills |
+|---|---|
+| **AI & LLMs** | LangChain, RAG, Prompt Engineering, Agentic AI |
+| **Engineering** | System Design, REST APIs, Automation, CI/CD, Testing |
+| **Fundamentals** | Data Structures & Algorithms, Open Source Contribution |
+
+<br>
+
+## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tannuiscoding&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tannuiscoding&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tannuiscoding&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Top Languages"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tannuiscoding&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tannuiscoding&theme=dracula&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 <br>
 
-<h2 align="center">⚒️ Tech Stack</h2>
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,php,cs,react,nextjs,nodejs,express,flask,django,fastapi,mongodb,mysql,postgres,firebase,tailwind,bootstrap,docker,git,github,linux,ubuntu,postman,vscode,pytorch,tensorflow&theme=dark&perline=10"/>
-
-</div>
-
-<br>
-
-<h2 align="center">💡 Skills</h2>
-
-<p align="center">
-
-AI • LLMs • LangChain • RAG • Prompt Engineering • REST APIs • Automation • System Design • Testing • CI/CD • Open Source • Data Structures & Algorithms
-
-</p>
-
-<br>
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tannuiscoding&theme=dracula&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tannuiscoding&theme=dracula&hide_border=true" alt="Contribution Graph"/>
-</div>
-
-<br>
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-
-<a href="mailto:tannuchoudhary2000@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/tannuiscoding">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://bento.me/tannuiscoding">
-<img src="https://img.shields.io/badge/Bento-768CFF?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://twitter.com/tannuiscoding">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-</p>
-
-<br>
-
-<div align="center">
-
+### 📈 Profile Views
 <img src="https://komarev.com/ghpvc/?username=tannuiscoding&label=Profile%20Views&color=BD93F9&style=for-the-badge" alt="Profile Views"/>
 
-</div>
+<br><br>
 
-<br>
+### ☕ Support My Work
 
-<h2 align="center">☕ Support My Work</h2>
-
-<p align="center">
 If you enjoy my projects or find them helpful, consider supporting my open-source work.
-</p>
 
-<p align="center">
 <a href="https://buymeacoffee.com/tannuchoudl">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" width="180" alt="Buy Me A Coffee"/>
 </a>
-</p>
 
 <br>
 
-<img width="100%" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" alt="Rainbow Divider"/>
+*Thanks for visiting — feel free to explore my repos and reach out!*
 
-<p align="center">
-<i>Thanks for stopping by! ⭐ Feel free to explore my repositories and connect with me.</i>
-</p>
+</div>
