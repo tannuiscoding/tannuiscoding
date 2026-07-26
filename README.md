@@ -43,39 +43,65 @@
 
 ## Tech Stack
 
+<div align="center">
+
 **Languages**
 <br>
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,php,cs&theme=dark" />
+
+<br>
 
 **Frontend**
 <br>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" />
 
+<br>
+
 **Backend & APIs**
 <br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,fastapi&theme=dark" />
+
+<br>
 
 **Databases**
 <br>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&theme=dark" />
 
+<br>
+
 **AI / ML**
 <br>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+
+<br>
 
 **Tools & Platforms**
 <br>
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,ubuntu,postman,vscode&theme=dark" />
 
+</div>
+
 <br>
 
 ## Core Skills
 
-| Category | Skills |
-|---|---|
-| **AI & LLMs** | LangChain, RAG, Prompt Engineering, Agentic AI |
-| **Engineering** | System Design, REST APIs, Automation, CI/CD, Testing |
-| **Fundamentals** | Data Structures & Algorithms, Open Source Contribution |
+<div align="left">
+
+**Languages:** Python, JavaScript, TypeScript, Java, SQL, Rust  
+**Frameworks & Libraries:** React.js, Next.js, Node.js, Express.js, Flask  
+**Technologies:** REST APIs, Docker, Git, GitHub Actions, Linux, Playwright, Pytest  
+**Computer Science:** Data Structures & Algorithms, Object-Oriented Programming, DBMS, System Design  
+**AI / ML:** LangChain, Gemini API
+
+</div>
+
+<br>
+
+## Activity
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/tannuiscoding/tannuiscoding/output/snake.svg" alt="Snake animation" />
+</div>
 
 <br>
 
@@ -88,10 +114,6 @@
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tannuiscoding&theme=dracula&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tannuiscoding&theme=dracula&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 <br>
