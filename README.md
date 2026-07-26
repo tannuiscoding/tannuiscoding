@@ -10,7 +10,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tannuchoudhary2000@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tannuiscoding)
-[![Bento](https://img.shields.io/badge/Portfolio-768CFF?style=for-the-badge&logo=vercel&logoColor=white)](https://bento.me/tannuiscoding)
+[![Bento](https://img.shields.io/badge/Portfolio-768CFF?style=for-the-badge&logo=vercel&logoColor=white)](https://tannuiscoding.in)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/tannuiscoding)
 
 </div>
